@@ -99,3 +99,15 @@ p {
 .info-grid p {
   line-height: 1.6;
 }
+
+.info-grid div button {
+  margin-top: 21%;
+  background: rgba(0, 0, 0, 0);
+  border-color: #fff;
+  border: 2px solid #fff;
+  color: #fff;
+  padding: 4% 8%;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
